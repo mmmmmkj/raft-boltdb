@@ -9,8 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/raft"
-	v1 "github.com/hashicorp/raft-boltdb"
+	//"github.com/hashicorp/raft"
+	raft "github.com/mmmmmkj/praft"
+	//v1 "github.com/hashicorp/raft-boltdb"
+	v1 "github.com/mmmmmkj/raft-boltdb"
 	"go.etcd.io/bbolt"
 )
 

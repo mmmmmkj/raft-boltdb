@@ -8,7 +8,9 @@ import (
 
 	"github.com/armon/go-metrics"
 	v1 "github.com/boltdb/bolt"
-	"github.com/hashicorp/raft"
+
+	//"github.com/hashicorp/raft"
+	raft "github.com/mmmmmkj/praft"
 	"go.etcd.io/bbolt"
 )
 

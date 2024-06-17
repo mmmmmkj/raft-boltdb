@@ -6,7 +6,9 @@ import (
 
 	metrics "github.com/armon/go-metrics"
 	"github.com/boltdb/bolt"
-	"github.com/hashicorp/raft"
+
+	//"github.com/hashicorp/raft"
+	raft "github.com/mmmmmkj/praft"
 )
 
 const (
