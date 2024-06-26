@@ -6,7 +6,7 @@ require (
 	github.com/armon/go-metrics v0.4.1
 	github.com/boltdb/bolt v1.3.1
 	github.com/hashicorp/go-msgpack v0.5.5
-	github.com/mmmmmkj/praft v1.2.0
+	github.com/mmmmmkj/praft v1.8.6
 )
 
 require (
